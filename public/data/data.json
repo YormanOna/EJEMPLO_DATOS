@@ -1,0 +1,1928 @@
+[
+    {
+        "ID":1,
+        "Fecha":"2025-02-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Fallecimiento de servidor policial",
+        "DESCRIPCIÓN":"CBOS. JHON PAÚL CASTRO CABRERA, perdió la vida a manos de integrantes del Grupo Armado Organizado “Sao Box”.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/servidor-policial-pierde-la-vida-en-el-cumplimiento-de-su-deber-en-pasaje/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":2,
+        "Fecha":"2025-02-09",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Fallecimiento de servidor policial",
+        "DESCRIPCIÓN":"CBOS. INTRIAGO GONZALEZ ÁLVARO ANDRES, perdió la vida en Nueva Prosperina, en un ataque armado por parte de un grupo delictivo.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/servidor-policial-pierde-la-vida-en-el-cumplimiento-de-su-deber-en-guayaquil/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":3,
+        "Fecha":"2025-02-13",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Fallecimiento de servidor policial",
+        "DESCRIPCIÓN":"POLI. LALBAY LEMA RUTH ABIGAIL, en el kilómetro 26 de la vía Quinindé, sector Valle Hermoso, provincia de Santo Domingo de los Tsáchilas,  mientras realizaba un operativo antidelincuencial cuando fue atropellada por un vehículo tipo taxi.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/valiente-policia-fallece-en-cumplimiento-de-su-deber/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":4,
+        "Fecha":"2025-02-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Fallecimiento de servidor policial",
+        "DESCRIPCIÓN":"CPTN. SINMALEZA SANMARTIN DARWIN JAVIER, perdió la vida en Cañar, en un ataque armado por parte de un grupo delictivo.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/servidor-policial-pierde-la-vida-en-cumplimiento-de-su-deber-en-canar/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":5,
+        "Fecha":"2025-02-27",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Fallecimiento de servidor policial",
+        "DESCRIPCIÓN":"CBOP. LIMAICO YACELGA SERGIO NELSON",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/caballero-de-la-paz-fallece-en-cumplimiento-de-su-deber/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":6,
+        "Fecha":"2025-02-27",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a un ciudadano segundo más buscado de Manabí por el delito de asesinato",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-un-ciudadano-segundo-mas-buscado-de-manabi-por-el-delito-de-asesinato/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":7,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Caballero de la paz fallece en cumplimiento de su deber",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/caballero-de-la-paz-fallece-en-cumplimiento-de-su-deber/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":8,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a alias “La Voz” objetivo de intermedio valor en Pastaza",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-alias-la-voz-objetivo-de-intermedio-valor-en-pastaza/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":9,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"39 capturados en el operativo “Apolo 2” en Manabí, donde se realizó 50 allanamientos, que dejó como resultado la captura de 39 sujetos en Manta.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/39-capturados-en-el-operativo-apolo-2-en-manabi/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":10,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"150 viviendas allanadas en el megaoperativo policial “Apolo 9”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/150-viviendas-allanadas-en-el-megaoperativo-policial-apo",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":11,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Más de 50 mil servidores policiales desplegados durante el feriado de “Carnaval” 2025",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/mas-de-50-mil-servidores-policiales-desplegados-durante-el-feriado-de-carnaval-2025/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":12,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional capturó a siete presuntos micro expendedores de droga",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-capturo-a-siete-presuntos-micro-expendedores-de-droga/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":13,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Intervención policial y militar deja armamento decomisado en Durán",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/intervencion-policial-y-militar-deja-armamento-decomisado-en-duran/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":14,
+        "Fecha":"2025-02-28",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Dispositivo de seguridad por carnaval inicia este viernes en la Zona 8",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dispositivo-de-seguridad-por-carnaval-inicia-este-viernes-en-la-zona-8/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":15,
+        "Fecha":"2025-03-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo Policial permitió la aprehensión de 13 ciudadanos por el delito de tenencia ilegal de armas de fuego y tráfico de sustancias sujetas a fiscalización en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-policial-permitio-la-aprehension-de-13-ciudadanos-por-el-delito-de-tenencia-ilegal-de-armas-de-fuego-y-trafico-de-sustancias-sujetas-a-fiscalizacion-en-manabi/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":16,
+        "Fecha":"2025-03-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Fallecimiento de servidor policial",
+        "DESCRIPCIÓN":"CBOS. ROSALES MOROCHO BOLÍVAR ORLANDO",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/servidor-policial-pierde-la-vida-en-cumplimiento-de-su-deber-en-esmeraldas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":17,
+        "Fecha":"2025-03-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a un ciudadano con notificación roja de Interpol",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-un-ciudadano-con-notificacion-roja-de-interpol/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":18,
+        "Fecha":"2025-03-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a alias ¨Garzón¨ objetivo de intermedio valor en Santa Elena",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-alias-%c2%a8garzon%c2%a8-objetivo-de-intermedio-valor-en-santa-elena/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":19,
+        "Fecha":"2025-03-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Aprehensión de un ciudadano por el presunto delito de asesinato en Carchi",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/aprehension-de-un-ciudadano-por-el-presunto-delito-de-asesinato-en-carchi/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":20,
+        "Fecha":"2025-03-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Dos víctimas de secuestro liberadas y siete ciudadanos aprehendidos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-victimas-de-secuestro-liberadas-y-siete-ciudadanos-aprehendidos/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":21,
+        "Fecha":"2025-03-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía localizó a 47 personas tras labores investigativas a nivel nacional",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-localizo-a-47-personas-tras-labores-investigativas-a-nivel-nacional/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":22,
+        "Fecha":"2025-03-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a 158 sujetos y detuvo a 177 personas durante la Operación Alto Impacto 2",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-158-sujetos-y-detuvo-a-177-personas-mas-durante-la-operacion-alto-impacto-2/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":23,
+        "Fecha":"2025-03-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Aprehensión de dos ciudadanos por tentativa de asesinato en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/aprehension-de-dos-ciudadanos-por-tentativa-de-asesinato-en-manabi/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":24,
+        "Fecha":"2025-03-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Un antisocial neutralizado, mediante uso legítimo de la fuerza en Guayas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-antisocial-neutralizado-mediante-uso-legitimo-de-la-fuerza-en-guayas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":25,
+        "Fecha":"2025-03-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía incautó más de una tonelada de sustancias sujetas a fiscalización en Galápagos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-incauto-mas-de-una-tonelada-de-sustancias-sujetas-a-fiscalizacion-en-galapagos/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":26,
+        "Fecha":"2025-03-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía neutralizó a tres antisociales mediante uso legítimo de la fuerza en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-neutralizo-a-tres-antisociales-mediante-uso-legitimo-de-la-fuerza-en-manabi/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":27,
+        "Fecha":"2025-03-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a sujeto por el delito de transporte de municiones no autorizadas en Tungurahua",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-sujeto-por-el-delito-de-transporte-de-municiones-no-autorizadas-en-tungurahua/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":28,
+        "Fecha":"2025-03-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional del Ecuador en coordinación con su similar de Colombia aprehendió cerca de una tonelada de droga",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-del-ecuador-en-coordinacion-con-su-similar-de-colombia-aprehendio-cerca-de-una-tonelada-de-droga/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":29,
+        "Fecha":"2025-03-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía enfrenta con firmeza al microtráfico de drogas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-enfrenta-con-firmeza-al-microtrafico-de-drogas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":30,
+        "Fecha":"2025-03-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a alias ¨Gordo Tacuri¨ objetivo de intermedio valor en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-alias-%c2%a8gordo-tacuri%c2%a8-objetivo-de-intermedio-valor-en-manabi/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":31,
+        "Fecha":"2025-03-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Policía Nacional rindió homenaje a los héroes policiales con la colocación de ofrendas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-nacional-rindio-homenaje-a-los-heroes-policiales-con-la-colocacion-de-ofrendas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":32,
+        "Fecha":"2025-03-06",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"2 aprehendidos presuntos implicados en el tráfico de armas en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/2-aprehendidos-presuntos-implicados-en-el-trafico-de-armas-en-manabi/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":33,
+        "Fecha":"2025-03-06",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"\nPolicía detiene a tres presuntos involucrados en el delito de tráfico ilícito de migrantes",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-detiene-a-tres-presuntos-involucrados-en-el-delito-de-trafico-ilicito-de-migrantes/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":34,
+        "Fecha":"2025-03-06",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Golpe al narcotráfico en Napo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/golpe-al-narcotrafico-en-napo/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":35,
+        "Fecha":"2025-03-06",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Ceremonia de cambio de insignias de mando",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/ceremonia-de-cambio-de-insignias-de-mando/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":36,
+        "Fecha":"2025-03-06",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía captura a dos sujetos por transportar sustancias sujetas a fiscalización",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-captura-a-dos-sujetos-por-transportar-sustancias-sujetas-a-fiscalizacion/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":37,
+        "Fecha":"2025-03-06",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"14 aprehendidos durante operativo “Apolo 10” ejecutado en Durán",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/14-aprehendidos-durante-operativo-apolo-10ejecutado-en-duran/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":38,
+        "Fecha":"2025-03-07",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo policial permite la captura de 14 sujetos en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-policial-permite-la-captura-de-14-sujetos-en-guayaquil/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":39,
+        "Fecha":"2025-03-07",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió 5 sujetos y decomisó armas de fuego en Guayas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-5-sujetos-y-decomiso-armas-de-fuego-en-guayas/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":40,
+        "Fecha":"2025-03-07",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía liberó a una víctima de secuestro extorsivo y capturó a cuatro presuntos implicados en Los Ríos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-libero-a-una-victima-de-secuestro-extorsivo-y-capturo-a-cuatro-presuntos-implicados-en-los-rios/ ",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":41,
+        "Fecha":"2025-03-07",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Dos sujeto aprehendidos por el delito de asesinato en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-sujeto-aprehendidos-por-el-delito-de-asesinato-en-esmeraldas/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":42,
+        "Fecha":"2025-03-07",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía entregó medicamentos y mobiliario clínico a centros de salud a nivel nacional",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-entrego-medicamentos-y-mobiliario-clinico-a-centros-de-salud-a-nivel-nacional/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":43,
+        "Fecha":"2025-03-07",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"\nPolicía aprehendió a un sujeto por el delito de asesinato en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-un-sujeto-por-el-delito-de-asesinato-en-esmeraldas/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":44,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"En Esmeraldas tres sujetos fueron aprehendidos en flagrancia",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/en-esmeraldas-tres-sujetos-fueron-aprehendidos-en-flagrancia/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":45,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"FICE capturó a tres presuntos extorsionadores del GAO “Los Choneros”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/fice-capturo-a-tres-presuntos-extorsionadores-del-gao-los-choneros/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":46,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Unidad Nacional De Investigación Anti delincuencial Cumple 15 Años De Trabajo Comprometido Con La Sociedad",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-unidad-nacional-de-investigacion-anti-delincuencial-cumple-15-anos-de-trabajo-comprometido-con-la-sociedad/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":47,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"4 Años De Trabajo Permanente Contra Los Delitos De Corrupción En El País",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/4-anos-de-trabajo-permanente-contra-los-delitos-de-corrupcion-en-el-pais/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":48,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía neutralizó a un sujeto y aprehendió a cuatro ciudadanos tras enfrentamiento armado en Quito",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-neutralizo-a-cuatro-sujetos-en-uso-legitimo-de-la-fuerza-en-quito/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":49,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehende a dos presuntos implicados en el delito de tenencia de arma de fuego en Los Ríos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehende-a-dos-presuntos-implicados-en-el-delito-de-tenencia-de-arma-de-fuego-en-los-rios/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":50,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía identificó una camaronera que sería utilizada para ocultar armas de fuego pertenecientes al GAO “Tiguerones”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-identifico-una-camaronera-que-seria-utilizada-para-ocultar-armas-de-fuego-pertenecientes-al-gao-los-tiguerones/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":51,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Un antisocial neutralizado mediante uso legítimo de la fuerza y un sujeto aprehendido",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-antisocial-neutralizado-mediante-uso-legitimo-de-la-fuerza-y-un-sujeto-aprehendido/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":52,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a nueve sujetos en Socio Vivienda",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-nueve-sujetos-en-socio-vivienda/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":53,
+        "Fecha":"2025-03-08",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía incautó 100 mil gramos de droga en el DMQ",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-incauto-100-mil-gramos-de-droga-en-el-dmq/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":54,
+        "Fecha":"2025-03-09",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo de interdicción logra la aprehensión de un ciudadano que transportaba droga en bus de transporte público",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-de-interdiccion-logra-la-aprehension-de-un-ciudadano-que-transportaba-droga-en-bus-de-transporte-publico/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":55,
+        "Fecha":"2025-03-09",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional captura a sujeto con arma de fuego en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-captura-a-sujeto-con-arma-de-fuego-en-esmeraldas/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":56,
+        "Fecha":"2025-03-09",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Un delincuente abatido y tres neutralizados mediante uso legítimo de la fuerza en Pichincha",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-delincuente-abatido-y-tres-neutralizados-mediante-uso-legitimo-de-la-fuerza-en-pichincha/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":57,
+        "Fecha":"2025-03-09",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía neutralizó a dos ciudadanos mediante uso legítimo de la fuerza en El Oro",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-neutralizo-a-dos-ciudadanos-mediante-uso-legitimo-de-la-fuerza-en-el-oro/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":58,
+        "Fecha":"2025-03-09",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"FICE liberó a una víctima y capturó a 05 sujetos por el delito de secuestro extorsivo en Pascuales",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/fice-libero-a-una-victima-y-capturo-a-05-sujetos-por-el-delito-de-secuestro-extorsivo-en-pascuales/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":59,
+        "Fecha":"2025-03-09",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional del Ecuador realizó 108 operativos de “Alto Impacto 3”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-del-ecuador-realizo-108-operativos-de-alto-impacto-3/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":60,
+        "Fecha":"2025-03-10",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía captura a una ciudadana en custodia de artefactos explosivos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-captura-a-una-ciudadana-en-custodia-de-artefactos-explosivos/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":61,
+        "Fecha":"2025-03-10",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional contrarresta actividades de microtráfico",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-contrarresta-actividades-de-microtrafico/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":62,
+        "Fecha":"2025-03-10",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a cuatro ciudadanos por tenencia ilegal de armas de fuego y sustancias ilícitas en Babahoyo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-cuatro-ciudadanos-por-tenencia-ilegal-de-armas-de-fuego-y-sustancias-ilicitas-en-babahoyo/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":63,
+        "Fecha":"2025-03-11",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a presunto asaltante minutos después del robo en Atuntaqui",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-presunto-asaltante-minutos-despues-del-robo-en-atuntaqui/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":64,
+        "Fecha":"2025-03-11",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Un antisocial abatido mediante uso legítimo de la fuerza",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-antisocial-abatido-mediante-uso-legitimo-de-la-fuerza/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":65,
+        "Fecha":"2025-03-11",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía liberó a un ciudadano secuestrado en Guayaquil y aprehendió a sus captores",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-libero-un-ciudadano-secuestrado-extorsivo-en-guayaquil-y-la-aprehension-de-sus-captores/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":66,
+        "Fecha":"2025-03-11",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"FICE liberó a 11 víctimas de secuestro y aprehendió al presunto implicado en Nueva Prosperina",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/fice-libero-a-11-victimas-de-secuestro-en-nueva-prosperina/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":67,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía frustra millonario envío de droga con destino a Rusia",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-frustra-millonario-envio-de-droga-con-destino-a-rusia/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":68,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Tres sujetos aprehendidos por el delito de extorsión en Los Ríos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/tres-sujetos-aprehendidos-por-el-delito-de-extorsion-en-los-rios/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":69,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía frustra envió de cocaína en encomiendas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-frustra-envio-de-cocaina-en-encomiendas/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":70,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"En Otavalo Policía Nacional capturó a dos sujetos con orden de detención por robo de autopartes",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/en-otavalo-policia-nacional-capturo-a-dos-sujetos-con-orden-de-detencion-por-robo-de-autopartes/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":71,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Nuevo sujetos aprehendidos por el delito de secuestro en Cuenca",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/nuevo-sujetos-aprehendidos-por-el-delito-de-secuestro-en-cuenca/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":72,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a tres sujetos por varios delitos en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-tres-sujetos-por-varios-delitos-en-manabi/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":73,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía libera víctima de secuestro en Los Ríos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-libera-victima-de-secuestro-en-los-rios/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":74,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a cuatro sujetos presuntos implicados en la muerte de un servidor policial en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-cuatro-sujetos-presuntos-implicados-en-la-muerte-de-un-servidor-policial-en-guayaquil/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":75,
+        "Fecha":"2025-03-12",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Más de 200 menores rescatados en operativos ejecutados por DINAF",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/mas-de-200-menores-rescatados-en-operativos-ejecutados-por-dinaf/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":76,
+        "Fecha":"2025-03-13",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Policía Nacional del Ecuador captura a dos presuntos extorsionadores en delito flagrante",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-nacional-del-ecuador-captura-a-dos-presuntos-extorsionadores-en-delito-flagrante/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":77,
+        "Fecha":"2025-03-13",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Cuatro aprehendidos y la incautación de armas de fuego dejo como resultado el «Operativo Apolo 05»",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/cuatro-aprehendidos-y-la-incautacion-de-armas-de-fuego-dejo-como-resultado-el-operativo-apolo-10/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":78,
+        "Fecha":"2025-03-13",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía incauta más de 9 kilos de marihuana y aprehende a dos implicados en operativo en Tababuela",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-incauta-mas-de-9-kilos-de-marihuana-y-aprehende-a-dos-implicados-en-operativo-en-tababuelapolicia-incauta-mas-de-9-kilos-de-marihuana-y-aprehende-a-dos-implicados-en-operativo-en-tababuela/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":79,
+        "Fecha":"2025-03-13",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Cooperación internacional en acción deja 36 detenidos y más de 38 toneladas de cocaína incautadas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/cooperacion-internacional-en-accion-deja-36-detenidos-y-mas-de-38-toneladas-de-cocaina-incautadas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":80,
+        "Fecha":"2025-03-14",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Siete aprehendidos por el presuntos implicados en el tráfico ilegal de hidrocarburos en Santa Elena",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/siete-aprehendidos-por-el-presuntos-implicados-en-el-trafico-ilegal-de-hidrocarburos-en-santa-elena/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":81,
+        "Fecha":"2025-03-14",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió en flagrancia a sujetos implicados en el delito de asalto y robo en bus de transporte público en Muisne",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-en-flagrancia-a-sujetos-implicados-en-el-delito-de-asalto-y-robo-en-bus-de-transporte-publico-en-muisne/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":82,
+        "Fecha":"2025-03-14",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Desarticulamos organización delictiva dedicada a la falsificación de dinero en Ibarra",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/desarticulamos-organizacion-delictiva-dedicada-a-la-falsificacion-de-dinero-en-ibarra/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":83,
+        "Fecha":"2025-03-15",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Labores de investigación permiten la aprehensión de presunto implicado en varios asesinatos ocurrido en el cantón Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/labores-de-investigacion-permiten-la-aprehension-de-presunto-implicado-en-varios-asesinatos-ocurrido-en-el-canton-esmeraldas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":84,
+        "Fecha":"2025-03-15",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policia captura a un sujeto que transportaba ácido nitrico",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-captura-a-un-sujeto-que-transportaba-acido-nitrico/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":85,
+        "Fecha":"2025-03-15",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"En Esmeraldas Bloque de seguridad aprehendió a dos sujetos implicados en el delito de extorsión",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/en-esmeraldas-bloque-de-seguridad-aprehendio-a-dos-sujetos-implicados-en-el-delito-de-extorsion/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":86,
+        "Fecha":"2025-03-15",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional aprehendió a tres presuntos implicados en el tráfico ilegal de hidrocarburos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-aprehendio-a-tres-presuntos-implicados-en-el-trafico-ilegal-de-hidrocarburos/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":87,
+        "Fecha":"2025-03-15",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía desarticuló a GAO ‘Los Lobos’ en Quito",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-desarticulo-a-gao-los-lobos-en-quito/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":88,
+        "Fecha":"2025-03-15",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Objetivos de Alto e Intermedio Valor",
+        "DESCRIPCIÓN":"Policía capturó a alias ‘Topo’ objetivo de alto valor en Orellana",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-alias-topo-objetivo-de-alto-valor-en-orellana/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":89,
+        "Fecha":"2025-03-16",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Objetivos de Alto e Intermedio Valor",
+        "DESCRIPCIÓN":"Policía capturó a alías ‘Grandote’ en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-alias-grandote-en-manabi/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":90,
+        "Fecha":"2025-03-16",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Policía Nacional de Ecuador celebra con éxito la competencia atlética internacional «Policía Héroe de Paz”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-nacional-de-ecuador-celebra-con-exito-la-competencia-atletica-internacional-policia-heroe-de-paz/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":91,
+        "Fecha":"2025-03-16",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía brindo apoyo inmediato ante avalancha en el Volcán Cotopaxi",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-brindo-apoyo-inmediato-ante-avalancha-en-el-volcan-cotopaxi/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":92,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía captura a un antisocial que habría participado en el atentado en la Penitenciaría del Litoral",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-captura-a-un-antisocial-que-habria-participado-en-el-atentado-en-la-penitenciaria-del-litoral/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":93,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Objetivos de Alto e Intermedio Valor",
+        "DESCRIPCIÓN":"Efectivo operativo policial logra la captura de Franklin J. P., considerado Objetivo de Intermedio Valor",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/efectivo-operativo-policial-logra-la-captura-de-franklin-j-p-considerado-objetivo-de-intermedio-valor/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":94,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Policía capturo a 03 sujetos por transportar 260 tacos de dinamita en Ibarra",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-capturo-a-03-sujetos-por-transportar-260-tacos-de-dinamita-en-ibarra/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":95,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Un antisocial neutralizado mediante uso legítimo de la fuerza en Machala",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-antisocial-neutralizado-mediante-uso-legitimo-de-la-fuerza-en-machala/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":96,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional despliega operativos antinarcóticos en Quito",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-despliega-operativos-antinarcoticos-en-quito/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":97,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Policía realiza requisa en el CPL Ibarra para reforzar la seguridad",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-realiza-requisa-en-el-cpl-ibarra-para-reforzar-la-seguridad/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":98,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía realizó 121 operativos y aprehendió a 133 sujetos durante la operación “Alto Impacto 4”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-133-sujetos-durante-la-operacion-alto-impacto-4/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":99,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La lucha contra el microtráfico sigue dando resultados positivos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-lucha-contra-el-microtrafico-sigue-dando-resultados-positivos/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":100,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a dos antisociales por el  delito de desaparición involuntaria",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-dos-antisociales-por-el-delito-de-desaparicion-involuntaria/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":101,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Detención con fines de extradición de dos ciudadanos colombianos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/detencion-con-fines-de-extradicion-de-dos-ciudadanos-colombianos/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":102,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo Resurgir 10 da como resultado 14 personas aprehendidas, pertenecientes a la agrupación delictiva “los tiguerones”.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-resurgir-10-da-como-resultado-14-personas-aprehendidas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":103,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Eficaz intervención policial en la provincia de Bolívar, logra aprehensión de ciudadano por presunto homicidio",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/eficaz-intervencion-policial-en-la-provincia-de-bolivar-logra-aprehension-de-ciudadano-por-presunto-homicidio/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":104,
+        "Fecha":"2025-03-17",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía neutralizó a un antisocial, mediante uso legítimo de la fuerza en Guayas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-neutralizo-a-un-antisocial-mediante-uso-legitimo-de-la-fuerza-en-guayas/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":105,
+        "Fecha":"2025-03-18",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía captura al sexto más buscado por el delito de asesinato",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-captura-al-sexto-mas-buscado-por-el-delito-de-asesinato/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":106,
+        "Fecha":"2025-03-18",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a un presunto implicado en el delito de pornografía infantil en Azuay",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-un-presunto-implicado-en-el-delito-de-pornografia-infantil-en-azuay/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":107,
+        "Fecha":"2025-03-18",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Dos sujeto aprehendidos por el delito de tenencia y porte de armas en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-sujeto-aprehendidos-por-el-delito-de-tenencia-y-porte-de-armas-en-esmeraldas/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":108,
+        "Fecha":"2025-03-18",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehende a una ciudadana por delito de tenencia y porte de armas en Santa Elena",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehende-a-una-ciudadana-por-delito-de-tenencia-y-porte-de-armas-en-santa-elena/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":109,
+        "Fecha":"2025-03-19",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Policía captura a 08 sujetos por el presunto delito de secuestro extorsivo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-captura-a-08-sujetos-por-el-presunto-delito-de-secuestro-extorsivo/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":110,
+        "Fecha":"2025-03-19",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"La Policía captura a 08 sujetos por el presunto delito de secuestro extorsivo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-captura-a-08-sujetos-por-el-presunto-delito-de-secuestro-extorsivo/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":111,
+        "Fecha":"2025-03-19",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"La Policía Nacional, a través del Grupo del Grupo de Operaciones Motorizadas, permitió la aprehensión de tres ciudadanos y la liberación de dos personas quienes habrían sido víctimas de secuestro",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-victimas-de-secuestro-liberadas-y-tres-ciudadanos-aprehendidos-en-samborondon/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":112,
+        "Fecha":"2025-03-19",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"El 18 de marzo de 2025, la Policía Nacional de Ecuador, ejecutó una operación denominada “Caso Perla”, que se llevó a cabo en Salitre, provincia de Guayas, donde se logró la captura de cuatro sujetos, presuntos integrantes del GAO “Los Lobos”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-cuatro-personas-presuntas-integrantes-del-gao-los-lobos/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":113,
+        "Fecha":"2025-03-19",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó tres objetivos de intermedio valor en operativo “Malasia”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-tres-objetivos-de-intermedio-valor-en-operativo-malasia/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":114,
+        "Fecha":"2025-03-19",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Dos víctimas de secuestro liberadas y tres ciudadanos aprehendidos en Samborondón",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-victimas-de-secuestro-liberadas-y-tres-ciudadanos-aprehendidos-en-samborondon/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":115,
+        "Fecha":"2025-03-19",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Objetivos de Alto e Intermedio Valor",
+        "DESCRIPCIÓN":"Policía capturó tres objetivos de intermedio valor en operativo “Malasia”, que dejó como resultado la aprehensión de 21 sujetos, tres de ellos considerados como objetivos de intermedio valor",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-tres-objetivos-de-intermedio-valor-en-operativo-malasia/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":116,
+        "Fecha":"2025-03-20",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Objetivos de Alto e Intermedio Valor",
+        "DESCRIPCIÓN":"Policía capturó a Yofre I. alias “Negroyo”, objetivo de intermedio valor en Bolívar",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-yofre-i-alias-negroyo-objetivo-de-intermedio-valor-en-bolivar/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":117,
+        "Fecha":"2025-03-20",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Extradición de un ciudadano ecuatoriano con notificación roja de Interpol",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/extradicion-de-un-ciudadano-ecuatoriano-con-notificacion-roja-de-interpol-2/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":118,
+        "Fecha":"2025-03-20",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía ejecutó el Operativo “Apolo 4” en Santa Elena que dejó importantes resultados",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-ejecuto-el-operativo-apolo-4-en-santa-elena-que-dejo-importantes-resultados/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":119,
+        "Fecha":"2025-03-20",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Capturamos a 14 sujetos pertenecientes al GAO “Los Lobos”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/capturamos-a-14-sujetos-pertenecientes-al-gao-los-lobos/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":120,
+        "Fecha":"2025-03-20",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Ecuador capturó a extranjero que pretendía viajar a Perú con más de 20 kilos de droga",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-ecuador-capturo-a-extranjero-que-pretendia-viajar-a-peru-con-mas-de-20-kilos-de-droga/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":121,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía decomisó droga valorada en 14 mil dólares y aprehendió a un presunto implicado en Babahoyo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-decomiso-droga-valorada-en-14-mil-dolares-destinada-para-el-consumo-interno-y-aprehendio-a-un-ciudadano-en-babahoyo/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":122,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a un sujeto con notificación roja de Interpol en Quito",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-un-sujeto-con-notificacion-roja-de-interpol-en-quito/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":123,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Resultados operativos de la DINAF: 44 operativos ejecutados encaminados a prevenir la vulneración de derechos de los niños, niñas y adolescentes, logrando el rescate de 182 niñas, niñas y adolescentes",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/resultados-operativos-de-la-dinaf/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":124,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía detuvo a un ciudadano, presunto implicado en el delito de violación",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-detuvo-a-un-ciudadano-presunto-implicado-en-el-delito-de-violacion/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":125,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía incautó químicos y armas utilizadas en minería ilegal en Imbabura",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-incauto-quimicos-y-armas-utilizadas-en-mineria-ilegal-en-imbabura/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":126,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Concluye el “II Seminario en procedimientos antidrogas”, brindando herramientas claves para funcionarios del Servicio Preventivo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/concluye-el-ii-seminario-en-procedimientos-antidrogas-brindando-herramientas-claves-para-funcionarios-del-servicio-preventivo/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":127,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a cuatro ciudadanos por el delito de extorsión en Babahoyo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-cuatro-ciudadanos-por-el-delito-de-extorsion-en-babahoyo/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":128,
+        "Fecha":"2025-03-21",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Ceremonia de graduación de 1.905 servidores policiales técnico operativo de la Décima Segunda Cohorte y entrega de 234 vehículos patrulleros",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/ceremonia-de-graduacion-de-1-905-servidores-policiales-tecnico-operativo-de-la-decima-segunda-cohorte-y-entrega-de-234-vehiculos-patrulleros/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":129,
+        "Fecha":"2025-03-22",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo “CERO IMPUNIDAD 647”, que permitió la aprehensión de 03 integrantes del grupo armado organizado “Chone Killers”, por el delito de tenencia y porte ilegal de armas de fuego y tráfico de sustancias catalogadas sujetas a fiscalización.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-tres-integrantes-del-gao-chone-killers%c2%a8en-guayaquil/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":130,
+        "Fecha":"2025-03-22",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo ¨JUSTICIA 26¨, donde logró la aprehensión de un ciudadano quien era requerido por las autoridades de justicia por el presunto delito de abuso sexual.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-ciudadano-capturado-por-el-presunto-delito-de-abuso-sexual-en-guayaquil-2/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":131,
+        "Fecha":"2025-03-23",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo “CERO IMPUNIDAD 661”, que permitió la aprehensión de 04 integrantes del grupo armado organizado “Los Lobos”, entre ellos un adolescente.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-cuatro-integrantes-del-gao-los-lobos%c2%a8-en-los-rios/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":132,
+        "Fecha":"2025-03-23",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional realizó 99 operativos de “Alto Impacto 5”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-realizo-99-operativos-de-alto-impacto-5/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":133,
+        "Fecha":"2025-03-23",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Una víctima de secuestro liberada y aprehensión de cuatro integrantes del GAO “Los Tiguerones”, en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/una-victima-de-secuestro-liberada-y-aprehension-de-cuatro-integrantes-del-gao-los-tiguerones-en-esmeraldas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":134,
+        "Fecha":"2025-03-23",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Una víctima de secuestro liberada y aprehensión de cuatro integrantes del GAO “Los Tiguerones”, en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/una-victima-de-secuestro-liberada-y-aprehension-de-cuatro-integrantes-del-gao-los-tiguerones-en-esmeraldas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":135,
+        "Fecha":"2025-03-23",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo Policial evitó el tráfico internacional de 5´970.000 dosis de cocaína",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-policial-evito-el-trafico-internacional-de-5970-000-dosis-de-cocaina/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":136,
+        "Fecha":"2025-03-24",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Tres sujetos aprehendidos por el delito de tenencia y porte arma en Los Ríos, en el operativo denominado “Cero Impunidad 669”,",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/tres-sujetos-aprehendidos-por-el-delito-de-tenencia-y-porte-arma-en-los-rios/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":137,
+        "Fecha":"2025-03-24",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a catorce presuntos implicados en el tráfico ilegal de hidrocarburos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-catorce-presuntos-implicados-en-el-trafico-ilegal-de-hidrocarburos/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":138,
+        "Fecha":"2025-03-24",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a dos integrantes del GAO ´´Los Choneros¨, en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-dos-integrantes-del-gao-los-choneros%c2%a8-en-esmeraldas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":139,
+        "Fecha":"2025-03-24",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a cuatro presuntos implicados en el tráfico de sustancias ilícitas, en la Operación «Cero Impunidad 675» en el distrito Esteros en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-cuatro-presuntos-implicados-en-el-trafico-de-sustancias-ilicitas/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":140,
+        "Fecha":"2025-03-24",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a un sujeto por el delito de abuso sexual",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-un-sujeto-por-el-delito-de-abuso-sexual/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":141,
+        "Fecha":"2025-03-24",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Dos antisociales neutralizados, mediante uso legítimo de la fuerza en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-antisociales-neutralizados-mediante-uso-legitimo-de-la-fuerza-en-guayaquil-2/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":142,
+        "Fecha":"2025-03-25",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía incautó 8 mil cápsulas de heroína en Santa Elena",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-incauto-8-mil-capsulas-de-heroina-en-santa-elena/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":143,
+        "Fecha":"2025-03-25",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturo a un sujeto perteneciente al Grupo Armado Organizado “Los Tiguerones”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-un-sujeto-perteneciente-al-grupo-armado-organizado-los-tiguerones/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":144,
+        "Fecha":"2025-03-25",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional no cesa en su combate al microtráfico,  en la provincia de Manabí, específicamente en los Distritos: Sucre y Portoviejo.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-no-cesa-en-su-combate-al-microtrafico/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":145,
+        "Fecha":"2025-03-25",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a alias ‘Miny’ en Guayaquil, quien era integrante del Grupo Delictivo Organizado ‘Los Tiguerones’.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-alias-miny-en-guayaquil/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":146,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Capturamos a 04 integrantes del Grupo Armado Organizado los “R7” en Morona Santiago",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/capturamos-a-04-integrantes-del-grupo-armado-organizado-los-r7-en-morona-santiago/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":147,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Un antisocial abatido y un neutralizado mediante uso legítimo de la fuerza, cuando intentaban asaltar un bus de transporte público",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-antisocial-abatido-y-un-neutralizado-mediante-uso-legitimo-de-la-fuerza/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":148,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía capturó a diez sujetos por el delito de delincuencia organizada, en el operativo denominado “Continental” en las provincias de Pichicha, Guayas y Los Ríos ",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-diez-sujetos-por-el-delito-de-delincuencia-organizada/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":149,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Aprehensión de tres ciudadanos presuntos implicados en minería ilegal en Morona Santiago",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/aprehension-de-tres-ciudadanos-presuntos-implicados-en-mineria-ilegal-en-morona-santiago/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":150,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Cooperación Ecuador y Alemania aúnan esfuerzos en la lucha contra el crimen organizado",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/cooperacion-ecuador-y-alemania-aunan-esfuerzos-en-la-lucha-contra-el-crimen-organizado/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":151,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo “APOLO 5” ejecutado en Santa Elena deja importantes resultados",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-apolo-5-ejecutado-en-santa-elena-deja-importantes-resultados/",
+        "RESPONSABLE":"Poli. Gabriela Culqui"
+    },
+    {
+        "ID":152,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Ecuador capturó más de 9 mil dosis de drogas destinadas al consumo interno",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-ecuador-capturo-mas-de-9-mil-dosis-de-drogas-destinadas-al-consumo-interno/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":153,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional ejecutó Operación «Apolo 5» en Manabí",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-ejecuto-operacion-apolo-5-en-manabi/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":154,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Policía Nacional localizó a siete ciudadanos reportados como desaparecidos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-localizo-a-siete-ciudadanos-reportados-como-desaparecidos/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":155,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-microtráfico de droga",
+        "DESCRIPCIÓN":"Policía Nacional aprehendió a 10 sujetos implicados en delito de microtráfico de droga",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-aprehendio-a-10-sujetos-implicados-en-delito-de-microtrafico-de-droga/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":156,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Afectación a organización delictiva",
+        "DESCRIPCIÓN":"Policía Nacional capturó a cuatro sujetos pertenecientes al Grupo Armado Organizado “Los Gansters”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-capturo-a-cuatro-sujetos-pertenecientes-al-grupo-armado-organizado-los-gansters/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":157,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo policial permitió la aprehensión de un ciudadano inmerso en un hecho delictivo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-policial-permitio-la-aprehension-de-un-ciudadano-inmerso-en-un-hecho-delictivo/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":158,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"La Policía Nacional aprehendió a tres sujetos implicados en diversos delitos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-nacional-aprehendio-a-tres-sujetos-implicados-en-diversos-delitos/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":159,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional aprehendió a tres sujetos por el delito de asesinato en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-aprehendio-a-tres-sujetos-por-el-delito-de-asesinato-en-guayaquil/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":160,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Policía liberó a dos víctimas de secuestro y recuperó dos vehículos robados en Los Ríos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-libero-a-dos-victimas-de-secuestro-y-recupero-dos-vehiculos-robados-en-los-rios/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":161,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a dos sujetos por homicido en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehende-a-2-presuntos-homicidas-en-guayaquil/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":162,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Operativo policial permitió la aprehensión de cuatro sujetos por secuestro extorsivo y liberó a las víctimas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-policial-permitio-la-aprehension-de-cuatro-sujetos-por-secuestro-extorsivo-y-libero-a-las-victimas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":163,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"En operativo “Libertad 210”, Policía Nacional liberó a dos víctimas de secuestro",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/en-operativo-libertad-210-policia-nacional-libero-a-dos-victimas-de-secuestro/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":164,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Afectación a organización delictiva",
+        "DESCRIPCIÓN":"Policía aprehendió a un sujeto implicado en el delito de tenencia y porte de armas de fuego en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-un-sujeto-implicado-en-el-delito-de-tenencia-y-porte-de-armas-de-fuego-en-esmeraldas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":165,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Narcotráfico",
+        "DESCRIPCIÓN":"Policía de Ecuador y Colombia desmantelaron un inmueble utilizado para la producción de heroína en Buesaco",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-de-ecuador-y-colombia-desmantelaron-un-inmueble-utilizado-para-la-produccion-de-heroina-en-buesaco/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":166,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Narcotráfico",
+        "DESCRIPCIÓN":"Golpe al narcotráfico: la Policía Nacional decomisa más de 2 toneladas de cocaína en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/golpe-al-narcotrafico-la-policia-nacional-decomisa-mas-de-2-toneladas-de-cocaina/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":167,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"7 aprehendidos en más de 380 allanamientos ejecutados durante el operativo Apolo 12 Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/7-aprehendidos-en-mas-de-380-allanamientos-ejecutados-durante-el-operativo-apolo-12-guayaquil/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":168,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Operativo exitoso: la Policía Nacional capturó a dos sujetos involucrados en extorsión en Durán",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-exitoso-la-policia-nacional-capturo-a-dos-sujetos-involucrados-en-extorsion-en-duran/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":169,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Policía aprehendió en flagrancia a tres implicados en el delito de extorsión en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-en-flagrancia-a-tres-implicados-en-el-delito-de-extorsion-en-esmeraldas/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":170,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Aprehensión de ciudadano por tenencia ilegal de armas de fuego y recuperación de vehículos robados en Loja",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/aprehension-de-ciudadano-por-tenencia-ilegal-de-armas-de-fuego-y-recuperacion-de-vehiculos-robados-en-el-circuito-garza-real/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":171,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Objetivos de Alto e Intermedio Valor",
+        "DESCRIPCIÓN":"Capturado Objetivo de Intermedio Valor durante operativo policial en Machala",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/objetivo-de-intermedio-valor-es-aprehendido-durante-operativo-policial/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":172,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía desmantela centros de acopio de drogas en el suroeste de Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-desmantela-centros-de-acopio-de-drogas-en-el-suroeste-de-guayaquil/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":173,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Notificación roja de Interpol",
+        "DESCRIPCIÓN":"Extradición activa de un sujeto con notificación roja de INTERPOL por secuestro",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/extradicion-activa-de-un-sujeto-con-notificacion-roja-de-interpol-por-secuestro/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":174,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Neutralizado en Uso de la Fuerza",
+        "DESCRIPCIÓN":"Este 28 de marzo de 2025, La Policía Nacional del Ecuador, neutralizó a un antisocial luego de un enfrentamiento armado con sujetos que intentaron cometer el delito de robo a un ciudadano en el sector la Guacharaca, provincia de Esmeraldas.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-mediante-uso-de-la-fuerza-neutralizo-a-un-delincuente-en-esmeraldas/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":175,
+        "Fecha":"2025-03-26",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Este 30 de marzo de 2025, la Policía Nacional del Ecuador, ejecutó diferentes operativos a través del subsistema investigativo y preventivo en las provincias de Guayas y El Oro, que dejó como resultado la aprehensión de dos sujetos por el delito de tenencia ilegal de armas, municiones y explosivos no autorizados, además de varias armas decomisadas.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-dos-sujetos-y-decomiso-armas-de-fuego-en-guayas-y-el-oro/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":176,
+        "Fecha":"2025-03-31",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Productividad semanal a nivel nacional de la DINAF",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/productividad-semanal-a-nivel-nacional-de-la-dinaf/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":177,
+        "Fecha":"2025-03-31",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a tres sujetos implicados en el delito de tenencia y porte de armas de fuego en Santa Elena",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-tres-sujetos-implicados-en-el-delito-de-tenencia-y-porte-de-armas-de-fuego-en-santa-elena/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":178,
+        "Fecha":"2025-03-31",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional localizó a 55 personas desaparecidas a nivel nacional",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-localizo-a-55-personas-desaparecidas-a-nivel-nacional/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":179,
+        "Fecha":"2025-03-31",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Afectación a organización delictiva",
+        "DESCRIPCIÓN":"Policía Nacional capturó a alias “Momo” y alias “Taureño” en Guayas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-capturo-a-alias-momo-y-alias-taureno-en-guayas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":180,
+        "Fecha":"2025-03-31",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Policía liberó a víctima de secuestro en Durán Este lunes 31 de marzo de 2025, la Policía Nacional de Ecuador a través del subsistema preventivo en Durán, liberó a una víctima de secuestro, tras recibir una alerta por el ECU 911.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-libero-a-victima-de-secuestro-en-duran/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":181,
+        "Fecha":"2025-03-31",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía Nacional realizó 120 operativos de “Alto Impacto 6”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-realizo-120-operativos-de-alto-impacto-6/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":182,
+        "Fecha":"2025-03-31",
+        "TIPO DE PRODUCTO":"GUIONES",
+        "TIPO":"Apoyo Institucional",
+        "DESCRIPCIÓN":"Guion para diseño en apoyo a nuestros compañeros que serán juzgados en una audiencia el 02 de abril de 2025, en el caso Jimmy Ocles durante una investigación por robo en Quito. ",
+        "ENLACE DE LA PUBLICACIÓN":null,
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":183,
+        "Fecha":"2025-04-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Institucional",
+        "DESCRIPCIÓN":"Cuarto Aniversario de la Unidad Nacional de Registro y Sistemas Especializados (UN-REGPOL)",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/cuarto-aniversario-de-la-unidad-nacional-de-registro-y-sistemas-especializados-un-regpol/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":184,
+        "Fecha":"2025-04-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Afectación a organización delictiva",
+        "DESCRIPCIÓN":"Policía aprehendió a un sujeto por tenencia de arma de fuego en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-un-sujeto-por-tenencia-de-arma-de-fuego-en-esmeraldas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":185,
+        "Fecha":"2025-04-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-microtráfico de droga",
+        "DESCRIPCIÓN":"Policía Nacional trabaja por espacios seguros y libres de drogas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-trabaja-por-espacios-seguros-y-libres-de-drogas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":186,
+        "Fecha":"2025-04-01",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-Tráfico de droga",
+        "DESCRIPCIÓN":"Del 24 al 30 de marzo de 2025, la Policía Nacional del Ecuador, a través de la Dirección Nacional de Investigación Antidrogas, llevó a cabo varios procedimientos contra el tráfico de sustancias catalogadas sujetas a fiscalización, en la provincia de Manabí.",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-evita-el-trafico-de-miles-de-dosis-de-droga-en-manabi/",
+        "RESPONSABLE":"POLI. ESTEFANIA SALAZAR"
+    },
+    {
+        "ID":187,
+        "Fecha":"2025-04-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Uso legítimo de la fuerza",
+        "DESCRIPCIÓN":"Dos antisociales abatidos mediante uso legítimo de la fuerza en el sur de Quito",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-antisociales-abatidos-mediante-uso-legitimo-de-la-fuerza-en-el-sur-de-quito/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":188,
+        "Fecha":"2025-04-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-Tráfico de droga",
+        "DESCRIPCIÓN":"Policía Nacional capturó un vehículo con droga",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-capturo-un-vehiculo-con-droga/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":189,
+        "Fecha":"2025-04-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Policía aprehendió a seis sujetos por el delito de extorsión en Guayaquil ",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-seis-sujetos-por-el-delito-de-extorsion-en-guayaquil/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":190,
+        "Fecha":"2025-04-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía ejecutó el operativo “Horus 4” con resultados positivos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-ejecuto-el-operativo-horus-4-con-resultados-positivos/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":191,
+        "Fecha":"2025-04-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió a dos sujetos por el delito de tráfico ilícito de sustancias sujetas a fiscalización en El Oro",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-dos-sujetos-por-el-delito-de-trafico-ilicito-de-sustancias-sujetas-a-fiscalizacion-en-el-oro/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":192,
+        "Fecha":"2025-04-02",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Policía aprehendió 420 explosivos y municiones en El Oro",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-420-explosivos-y-municiones-en-el-oro/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":193,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Aprehensión de cuatro integrantes del GAO ‘Los Lobos’ en Guayas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/aprehension-de-cuatro-integrantes-del-gao-los-lobos-en-guayas/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":194,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"DISCURSOS",
+        "TIPO":"Video",
+        "DESCRIPCIÓN":"Discurso para video de mi Comandante General",
+        "ENLACE DE LA PUBLICACIÓN":null,
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":195,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-Tráfico de droga",
+        "DESCRIPCIÓN":"Tres aprehendidos por el presunto delito de tráfico ilícito de sustancias catalogadas sujetas a fiscalización en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/tres-aprehendidos-por-el-presunto-delito-de-trafico-ilicito-de-sustancias-catalogadas-sujetas-a-fiscalizacion-en-guayaquil/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":196,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-Tráfico de droga",
+        "DESCRIPCIÓN":"La Policía Nacional aprehendió a cinco sujetos pertenecientes a una organización delictiva",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-nacional-aprehendio-a-cinco-sujetos-pertenecientes-a-una-organizacion-delictiva/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":197,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Afectación a organización delictiva",
+        "DESCRIPCIÓN":"Policía aprehendió a cuatro sujetos por el delito de tenencia y porte de armas en Los Ríos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-cuatro-sujetos-por-el-delito-de-tenencia-y-porte-de-armas-en-los-rios/",
+        "RESPONSABLE":"POLI. GABRIELA CULQUI"
+    },
+    {
+        "ID":198,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-Tráfico de droga",
+        "DESCRIPCIÓN":"La Policía Nacional detuvo a dos extranjeros con droga tras registro a autobús",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-nacional-detuvo-a-dos-extranjeros-con-droga-tras-registro-a-autobus/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":199,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Una víctima de secuestro liberada y un presunto implicado aprehendido en Los Ríos",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/una-victima-de-secuestro-liberada-y-un-presunto-implicado-aprehendido-en-los-rios/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":200,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Una víctima de secuestro liberada y dos presuntos implicados aprehendidos en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/una-victima-de-secuestro-liberada-y-dos-presuntos-implicados-aprehendidos-en-guayaquil/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":201,
+        "Fecha":"2025-04-03",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Dos aprehendidos por el presunto delito de extorsión en Esmeraldas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/dos-aprehendidos-por-el-presunto-delito-de-extorsion-en-esmeraldas/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":202,
+        "Fecha":"2025-04-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Uso legítimo de la fuerza",
+        "DESCRIPCIÓN":"Un antisocial abatido y dos aprehendidos mediante uso legítimo de la fuerza en Chimborazo",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/un-antisocial-abatido-y-dos-aprehendidos-mediante-uso-legitimo-de-la-fuerza-en-chimborazo/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":203,
+        "Fecha":"2025-04-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Más Buscado",
+        "DESCRIPCIÓN":"Policía Nacional capturó al tercer más buscado a nivel nacional por el delito de violación",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-capturo-al-tercer-mas-buscado-a-nivel-nacional-por-el-delito-de-violacion/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":204,
+        "Fecha":"2025-04-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo-Tráfico de droga",
+        "DESCRIPCIÓN":"La Policía Nacional del Ecuador neutralizó envío de 3 toneladas de cocaína hacia Europa",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-nacional-del-ecuador-neutralizo-envio-de-3-toneladas-de-cocaina-hacia-europa/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":205,
+        "Fecha":"2025-04-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Institucional",
+        "DESCRIPCIÓN":"Policía Nacional realizó el lanzamiento del proceso de reclutamiento y selección para el nivel directivo y técnico operativo septiembre 2025",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-nacional-realizo-el-lanzamiento-del-proceso-de-reclutamiento-y-seleccion-para-el-nivel-directivo-y-tecnico-operativo-septiembre-2025/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":206,
+        "Fecha":"2025-04-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Secuestro y Extorsión",
+        "DESCRIPCIÓN":"Policía aprehendió a cuatro integrantes del GAO “Los Tiguerones”, por el presunto delito de extorsión en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-aprehendio-a-cuatro-integrantes-del-gao-los-tiguerones-por-el-presunto-delito-de-extorsion-en-guayaquil/",
+        "RESPONSABLE":"CABS. MORELIA JUMBO"
+    },
+    {
+        "ID":207,
+        "Fecha":"2025-04-04",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Afectación a organización delictiva",
+        "DESCRIPCIÓN":"Operación “Arcángel 2.0” dejó como resultado la afectación del Grupo Armado Organizado “Los Choneros”",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operacion-arcangel-2-0-dejo-como-resultado-la-afectacion-del-grupo-armado-organizado-los-choneros/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":208,
+        "Fecha":"2025-04-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Extorsión ",
+        "DESCRIPCIÓN":"En el operativo “Libertad 224”, la Policía aprehendió a tres sujetos por el delito de extorsión en Guayas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/en-el-operativo-libertad-224-la-policia-aprehendio-a-tres-sujetos-por-el-delito-de-extorsion-en-guayas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":209,
+        "Fecha":"2025-04-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Objetivo de Intermedio Valor",
+        "DESCRIPCIÓN":"Policía capturó a sujeto considerado Objetivo de Intermedio Valor (OIV) por el delito de asociación ilícita",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/policia-capturo-a-sujeto-considerado-objetivo-de-intermedio-valor-oiv-por-el-delito-de-asociacion-ilicita/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":210,
+        "Fecha":"2025-04-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Afectación a organización delictiva",
+        "DESCRIPCIÓN":"La Policía aprehendió a dos sujetos por el delito de tenencia de arma de fuego y robo a personas en Machachi",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/la-policia-aprehendio-a-dos-sujetos-por-el-delito-de-tenencia-de-arma-de-fuego-y-robo-a-personas-en-machachi/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":211,
+        "Fecha":"2025-04-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Operativo",
+        "DESCRIPCIÓN":"Operativo “Tsunami”, permitió la captura de tres implicados en el robo de una distribuidora en Ibarra",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-tsunami-permitio-la-captura-de-tres-implicados-en-el-robo-de-una-distribuidora-en-ibarra/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":212,
+        "Fecha":"2025-04-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Institucional",
+        "DESCRIPCIÓN":"Nos capacitamos para combatir con firmeza el tráfico de drogas",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/nos-capacitamos-para-combatir-con-firmeza-el-trafico-de-drogas/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":213,
+        "Fecha":"2025-04-05",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Extorsión ",
+        "DESCRIPCIÓN":"Operativo policial dejó como resultado la aprehensión de cuatro sujetos por extorsión",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-policial-dejo-como-resultado-la-aprehension-de-cuatro-sujetos-por-extorsion/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    },
+    {
+        "ID":214,
+        "Fecha":"2025-04-06",
+        "TIPO DE PRODUCTO":"BOLETINES",
+        "TIPO":"Extorsión ",
+        "DESCRIPCIÓN":"Operativo policial permitió la aprehensión de tres sujetos por el delito de extorsión en Guayaquil",
+        "ENLACE DE LA PUBLICACIÓN":"https://noticias.policia.gob.ec/operativo-policial-permitio-la-aprehension-de-tres-sujetos-por-el-delito-de-extorsion-en-guayaquil/",
+        "RESPONSABLE":"CBOS. LESLY GALÁRRAGA"
+    }
+]
