@@ -138,7 +138,7 @@ function ChartDisplay({ registros }) {
 function ResponsableChartForProducto({ registros }) {
   const total = registros.length;
   const distribution = registros.reduce((acc, item) => {
-    const responsable = item.RESPONSABLE?.trim() || "Sin Responsable";
+    const responsable = item.RESPONSABLE?.trim().toUpperCase() || "Sin Responsable";
     acc[responsable] = (acc[responsable] || 0) + 1;
     return acc;
   }, {});
@@ -249,7 +249,7 @@ function App() {
       .then((jsonData) => {
         setDatos(jsonData);
         const responsables = [
-          ...new Set(jsonData.map((item) => item.RESPONSABLE?.trim())),
+          ...new Set(jsonData.map((item) => item.RESPONSABLE?.trim().toUpperCase())),
         ];
         setResponsablesUnicos(responsables.sort());
       })
