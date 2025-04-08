@@ -7,6 +7,7 @@ import {
   Legend as RechartsLegend,
   BarChart,
   Bar,
+  Cell as BarCell,
   XAxis,
   YAxis,
   CartesianGrid,
@@ -37,6 +38,7 @@ function ProductoList({ productos, itemsPerPage = 5 }) {
       <ul>
         {paginatedProductos.map((item) => (
           <li key={item.ID}>
+            <h3>{item["TIPO"] || "Sin tipo"}</h3>
             <p className="descripcion">
               {item.DESCRIPCIÓN || "Sin descripción disponible"}
             </p>
@@ -82,7 +84,7 @@ function ChartDisplay({ registros }) {
     return acc;
   }, {});
   const chartData = Object.entries(distribution).map(([name, value]) => ({ name, value }));
-  const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#AF19FF"];
+  const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#AF19FF", "#FF6699", "#33CCFF"];
 
   const [chartType, setChartType] = useState("pie");
   const toggleChartType = () => setChartType((prev) => (prev === "pie" ? "bar" : "pie"));
@@ -90,7 +92,7 @@ function ChartDisplay({ registros }) {
   return (
     <div className="chart-panel">
       <div className="chart-controls">
-        <button onClick={toggleChartType}>
+        <button className="toggle-chart-btn" onClick={toggleChartType}>
           Cambiar a gráfico {chartType === "pie" ? "de barras" : "de pastel"}
         </button>
       </div>
@@ -120,8 +122,11 @@ function ChartDisplay({ registros }) {
             <XAxis dataKey="name" />
             <YAxis />
             <RechartsTooltip />
-            <RechartsLegend />
-            <Bar dataKey="value" fill="#82ca9d" />
+            <Bar dataKey="value">
+              {chartData.map((entry, index) => (
+                <BarCell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+              ))}
+            </Bar>
           </BarChart>
         )}
       </ResponsiveContainer>
@@ -131,17 +136,15 @@ function ChartDisplay({ registros }) {
 
 /* Componente para mostrar, para un tipo de producto, la distribución porcentual por responsable */
 function ResponsableChartForProducto({ registros }) {
-  // Agrupa los registros por RESPONSABLE
   const total = registros.length;
   const distribution = registros.reduce((acc, item) => {
     const responsable = item.RESPONSABLE?.trim() || "Sin Responsable";
     acc[responsable] = (acc[responsable] || 0) + 1;
     return acc;
   }, {});
-  // Crea el arreglo con porcentajes
   const chartData = Object.entries(distribution)
     .map(([name, count]) => ({ name, value: parseFloat(((count / total) * 100).toFixed(2)) }));
-  const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#AF19FF"];
+  const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#AF19FF", "#FF6699", "#33CCFF"];
 
   const [chartType, setChartType] = useState("pie");
   const toggleChartType = () => setChartType((prev) => (prev === "pie" ? "bar" : "pie"));
@@ -149,7 +152,7 @@ function ResponsableChartForProducto({ registros }) {
   return (
     <div className="chart-panel">
       <div className="chart-controls">
-        <button onClick={toggleChartType}>
+        <button className="toggle-chart-btn" onClick={toggleChartType}>
           Cambiar a gráfico {chartType === "pie" ? "de barras" : "de pastel"}
         </button>
       </div>
@@ -179,8 +182,11 @@ function ResponsableChartForProducto({ registros }) {
             <XAxis dataKey="name" />
             <YAxis tickFormatter={(value) => `${value}%`} />
             <RechartsTooltip formatter={(value) => `${value}%`} />
-            <RechartsLegend />
-            <Bar dataKey="value" fill="#82ca9d" />
+            <Bar dataKey="value">
+              {chartData.map((entry, index) => (
+                <BarCell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+              ))}
+            </Bar>
           </BarChart>
         )}
       </ResponsiveContainer>
@@ -190,7 +196,6 @@ function ResponsableChartForProducto({ registros }) {
 
 /* Componente para mostrar gráficos generales por responsables para cada tipo de producto */
 function GeneralResponsableChart({ datos }) {
-  // Agrupa los datos por "TIPO DE PRODUCTO"
   const groupedByProducto = datos.reduce((acc, item) => {
     const tipo = item["TIPO DE PRODUCTO"] || "Sin Tipo";
     if (!acc[tipo]) acc[tipo] = [];
@@ -199,11 +204,13 @@ function GeneralResponsableChart({ datos }) {
   }, {});
 
   const [openSections, setOpenSections] = useState({});
+
   const toggleSection = (tipo) => {
-    setOpenSections((prev) => ({
-      ...prev,
-      [tipo]: !prev[tipo],
-    }));
+    setOpenSections((prev) => {
+      const newSections = {};
+      newSections[tipo] = !prev[tipo];
+      return newSections;
+    });
   };
 
   return (
@@ -232,9 +239,7 @@ function App() {
   const [datos, setDatos] = useState([]);
   const [busqueda, setBusqueda] = useState("");
   const [responsablesUnicos, setResponsablesUnicos] = useState([]);
-  // Controla el despliegue de la gráfica individual por responsable
   const [showChart, setShowChart] = useState({});
-  // Controla el despliegue de las gráficas generales
   const [showGeneralChart, setShowGeneralChart] = useState(false);
   const [showResponsableGeneralChart, setShowResponsableGeneralChart] = useState(false);
 
@@ -251,14 +256,12 @@ function App() {
       .catch((err) => console.error("Error al cargar datos:", err));
   }, []);
 
-  // Filtra los datos según la búsqueda
   const datosFiltrados = busqueda.trim()
     ? datos.filter((item) =>
         item.RESPONSABLE?.toLowerCase().includes(busqueda.toLowerCase())
       )
     : [];
 
-  // Agrupa los datos filtrados por responsable
   const agrupadosPorResponsable = datosFiltrados.reduce((acum, item) => {
     const responsable = item.RESPONSABLE?.trim();
     if (!acum[responsable]) acum[responsable] = [];
@@ -266,27 +269,56 @@ function App() {
     return acum;
   }, {});
 
-  const handleSelect = (e) => setBusqueda(e.target.value);
-  const handleClear = () => setBusqueda("");
-
-  // Alterna el despliegue de la gráfica de un responsable
-  const toggleChartDisplay = (responsable) => {
-    setShowChart((prev) => ({
-      ...prev,
-      [responsable]: !prev[responsable],
-    }));
+  const handleSelect = (e) => {
+    setBusqueda(e.target.value);
+    setShowChart({});
+    setShowGeneralChart(false);
+    setShowResponsableGeneralChart(false);
   };
 
-  // Alterna el despliegue de la gráfica general global
-  const toggleGeneralChartDisplay = () => setShowGeneralChart((prev) => !prev);
-  // Alterna el despliegue de la gráfica general por responsables en cada producto
-  const toggleResponsableGeneralChartDisplay = () =>
-    setShowResponsableGeneralChart((prev) => !prev);
+  const handleClear = () => {
+    setBusqueda("");
+    setShowChart({});
+    setShowGeneralChart(false);
+    setShowResponsableGeneralChart(false);
+  };
+
+  const handleBusquedaChange = (e) => {
+    setBusqueda(e.target.value);
+    setShowChart({});
+    setShowGeneralChart(false);
+    setShowResponsableGeneralChart(false);
+  };
+
+  const toggleChartDisplay = (responsable) => {
+    setShowChart((prev) => (prev[responsable] ? {} : { [responsable]: true }));
+  };
+
+  const toggleGeneralChartDisplay = () => {
+    setShowGeneralChart((prev) => {
+      const newValue = !prev;
+      if (newValue) {
+        setShowResponsableGeneralChart(false);
+      }
+      return newValue;
+    });
+    setShowChart({});
+  };
+
+  const toggleResponsableGeneralChartDisplay = () => {
+    setShowResponsableGeneralChart((prev) => {
+      const newValue = !prev;
+      if (newValue) {
+        setShowGeneralChart(false);
+      }
+      return newValue;
+    });
+    setShowChart({});
+  };
 
   return (
     <div className="container">
       <h1>🔍 Buscar por Responsable</h1>
-
       <div className="search-wrapper">
         <div className="search-controls">
           <select onChange={handleSelect} value={busqueda}>
@@ -302,7 +334,7 @@ function App() {
               type="text"
               placeholder="O escribe el nombre del responsable"
               value={busqueda}
-              onChange={(e) => setBusqueda(e.target.value)}
+              onChange={handleBusquedaChange}
               aria-label="Buscar por nombre del responsable"
             />
             {busqueda && (
@@ -314,7 +346,7 @@ function App() {
         </div>
       </div>
 
-      {/* Sección de gráfica general global (distribución por tipo de producto) */}
+      {/* Gráfica general global */}
       {datos.length > 0 && (
         <div className="general-chart-section">
           <button className="toggle-chart-btn" onClick={toggleGeneralChartDisplay}>
@@ -329,7 +361,7 @@ function App() {
         </div>
       )}
 
-      {/* Sección de gráfica general por responsables para cada producto */}
+      {/* Gráfica general por responsables */}
       {datos.length > 0 && (
         <div className="general-chart-section">
           <button className="toggle-chart-btn" onClick={toggleResponsableGeneralChartDisplay}>
@@ -341,12 +373,11 @@ function App() {
         </div>
       )}
 
-      {/* Sección de resultados individuales por responsable */}
+      {/* Resultados individuales por responsable */}
       {busqueda.trim() !== "" && (
         <div className="resultados">
           {Object.keys(agrupadosPorResponsable).length > 0 ? (
             Object.entries(agrupadosPorResponsable).map(([responsable, registros], idx) => {
-              // Agrupa los registros por "TIPO DE PRODUCTO" para el responsable
               const agrupadosPorProducto = registros.reduce((acum, item) => {
                 const tipo = item["TIPO DE PRODUCTO"];
                 if (!acum[tipo]) acum[tipo] = [];
@@ -369,8 +400,7 @@ function App() {
                   {Object.entries(agrupadosPorProducto).map(([tipo, productos], i) => (
                     <div key={i} className="producto-group">
                       <h3>
-                        {tipo} ({productos.length} registro
-                        {productos.length > 1 ? "s" : ""})
+                        {tipo} ({productos.length} registro{productos.length > 1 ? "s" : ""})
                       </h3>
                       <ProductoList productos={productos} itemsPerPage={5} />
                     </div>

@@ -1,3 +1,4 @@
+/* Global */
 body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #f4f6f8;
@@ -21,6 +22,7 @@ h1 {
   margin-bottom: 2rem;
 }
 
+/* Search Controls */
 .search-wrapper {
   display: flex;
   justify-content: center;
@@ -77,13 +79,14 @@ h1 {
   height: 28px;
   border-radius: 50%;
   cursor: pointer;
-  transition: background 0.3s ease;
+  transition: background-color 0.3s ease;
 }
 
 .clear-btn:hover {
   background: #c82333;
 }
 
+/* Resultados */
 .resultados {
   margin-top: 1rem;
 }
@@ -154,7 +157,7 @@ a:hover {
   margin-top: 2rem;
 }
 
-/* Contenedor de paginación */
+/* Paginación */
 .paginacion {
   display: flex;
   justify-content: center;
@@ -163,7 +166,6 @@ a:hover {
   gap: 10px;
 }
 
-/* Botones de paginación */
 .paginacion button {
   background-color: #007BFF;
   color: #fff;
@@ -174,51 +176,54 @@ a:hover {
   border-radius: 4px;
   transition: background-color 0.3s ease;
 }
-.toggle-chart-btn {
-  background-color: #8fc1f7;
-  padding: 10px 16px;
-  margin: 10px 0;
-}
-button {
-  background-color: #007bff;
-  color: #000000;
-  border: none;
-  border-radius: 4px;
-  padding: 8px 12px;
-  font-size: 14px;
-  cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-}
 
-button:hover:not(:disabled) {
-  background-color: #8da7c4;
+.paginacion button:hover:not(:disabled) {
+  background-color: #0056b3;
   transform: translateY(-2px);
 }
 
-button:disabled {
-  background-color: #cccccc;
-  cursor: not-allowed;
-}
-
-
-/* Botón de control en la sección de gráficos (por ejemplo, para cambiar el tipo de gráfico) */
-.chart-controls button {
-  background-color: #8fc1f7;
-  padding: 6px 10px;
-  margin-bottom: 10px;
-}
-.paginacion button:hover:not(:disabled) {
-  background-color: #0056b3;
-}
-
-/* Estado deshabilitado */
 .paginacion button:disabled {
   background-color: #cccccc;
   cursor: not-allowed;
 }
 
-/* Texto de paginación */
 .paginacion span {
   font-size: 14px;
   color: #333;
+}
+
+/* Botones toggle para gráficos */
+.toggle-chart-btn {
+  background-color: #007BFF;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin: 20px auto;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+}
+
+.toggle-chart-btn:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+}
+
+/* Botón de control en la sección de gráficos */
+.chart-controls button {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.chart-controls button:hover {
+  background-color: #0056b3;
 }
